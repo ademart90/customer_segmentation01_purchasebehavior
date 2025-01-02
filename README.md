@@ -10,4 +10,5 @@ Based on the cluster, shoppers was segmented into different categories with purc
 - VIP shoppers
 - Casual shoppers and
 - Loyal shoppers
+
 Different visualization was performed using the purchase amount, purchasefrequency and other features , and their relationship with the different categories of shoppers was analyzed.
