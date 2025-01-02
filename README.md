@@ -5,6 +5,7 @@ The relevant features used for segmentation was
 - purchasefrequency
 
 The optimal number of cluster was obtained from elbow method of kmeans. optimal k was 3
+
 Based on the cluster, shoppers was segmented into different categories with purchasing behaviors as
 - VIP shoppers
 - Casual shoppers and
