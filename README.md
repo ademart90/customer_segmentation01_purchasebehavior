@@ -12,3 +12,6 @@ Based on the cluster, shoppers was segmented into different categories with purc
 - Loyal shoppers
 
 Different visualization was performed using the purchase amount, purchasefrequency and other features , and their relationship with the different categories of shoppers was analyzed.
+
+An interactive dashboard was created with filters by state and shoppers segment using streamlit app .
+https://mqxtwrmejcrfqpjevyv4qd.streamlit.app/
